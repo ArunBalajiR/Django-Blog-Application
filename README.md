@@ -1,7 +1,7 @@
 # Django-Blog-Application
 ![py35](https://img.shields.io/badge/Python-3.5-red.svg) 
 ![Django2.2](https://img.shields.io/badge/Django-2.2.0-green.svg)
-[![](https://img.shields.io/badge/Powered%20by-@ArunBalajiR-blue.svg)](http://www.spiderpy.cn/blog/)
+[![](https://img.shields.io/badge/Powered%20by-@ArunBalajiR-blue.svg)](mailto:arunbalaji25062k@gmail.com)
 
 
 ## Screen Shots
